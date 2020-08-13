@@ -44,8 +44,7 @@ a {
 
 .content-wrapper {
     width: 100vw;
-    min-height: 91vh;
-    margin-top: 9vh;
+    min-height: 100vh;
     position: absolute;
     background-position: bottom;
     background-repeat: no-repeat;
